@@ -2,7 +2,6 @@
 RSDKv5 Decomp Mania mod to skip the autosave screen.
 
 ![Demo](demo.gif)
-*Mod in action*
 
 ## Features
 - Dumb stupid autosave is gone.
