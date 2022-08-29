@@ -4,7 +4,7 @@ RSDKv5 Decomp Mania mod to (mostly) skip the autosave dialog.
 ![Demo](demo.gif)
 
 ## Features
-- Dumb stupid autosave is (mostly) gone.
+- Dumb stupid autosave dialog is (mostly) gone.
 
 ## Building
 - Clone the repository recursively.
