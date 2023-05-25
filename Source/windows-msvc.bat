@@ -1,1 +1,0 @@
-cl /LD .\NoAutosave.c .\GameAPI\C\GameAPI\*.c /link /OUT:..\NoAutosave\NoAutosave.dll

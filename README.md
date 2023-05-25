@@ -7,9 +7,8 @@ RSDKv5 Decomp Mania mod to (mostly) skip the autosave dialog.
 - Dumb stupid autosave dialog is (mostly) gone.
 
 ## Building
-- Clone the repository recursively.
+- Clone the repository.
+- Add a symlink to GameAPI in the root.
 - Go into the source folder.
 - Use the script for your platform.
 - Copy the NoAutosave folder to your mods folder and enable it.
-
-*Why scripts? Cause I'm lazy.*
